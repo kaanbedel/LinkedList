@@ -1,0 +1,13 @@
+C:\Users\02483838\source\repos\DizilerKaanBedel\DizilerKaanBedel\bin\Debug\netcoreapp3.1\DizilerKaanBedel.exe
+C:\Users\02483838\source\repos\DizilerKaanBedel\DizilerKaanBedel\bin\Debug\netcoreapp3.1\DizilerKaanBedel.deps.json
+C:\Users\02483838\source\repos\DizilerKaanBedel\DizilerKaanBedel\bin\Debug\netcoreapp3.1\DizilerKaanBedel.runtimeconfig.json
+C:\Users\02483838\source\repos\DizilerKaanBedel\DizilerKaanBedel\bin\Debug\netcoreapp3.1\DizilerKaanBedel.runtimeconfig.dev.json
+C:\Users\02483838\source\repos\DizilerKaanBedel\DizilerKaanBedel\bin\Debug\netcoreapp3.1\DizilerKaanBedel.dll
+C:\Users\02483838\source\repos\DizilerKaanBedel\DizilerKaanBedel\bin\Debug\netcoreapp3.1\DizilerKaanBedel.pdb
+C:\Users\02483838\source\repos\DizilerKaanBedel\DizilerKaanBedel\obj\Debug\netcoreapp3.1\DizilerKaanBedel.csprojAssemblyReference.cache
+C:\Users\02483838\source\repos\DizilerKaanBedel\DizilerKaanBedel\obj\Debug\netcoreapp3.1\DizilerKaanBedel.AssemblyInfoInputs.cache
+C:\Users\02483838\source\repos\DizilerKaanBedel\DizilerKaanBedel\obj\Debug\netcoreapp3.1\DizilerKaanBedel.AssemblyInfo.cs
+C:\Users\02483838\source\repos\DizilerKaanBedel\DizilerKaanBedel\obj\Debug\netcoreapp3.1\DizilerKaanBedel.csproj.CoreCompileInputs.cache
+C:\Users\02483838\source\repos\DizilerKaanBedel\DizilerKaanBedel\obj\Debug\netcoreapp3.1\DizilerKaanBedel.dll
+C:\Users\02483838\source\repos\DizilerKaanBedel\DizilerKaanBedel\obj\Debug\netcoreapp3.1\DizilerKaanBedel.pdb
+C:\Users\02483838\source\repos\DizilerKaanBedel\DizilerKaanBedel\obj\Debug\netcoreapp3.1\DizilerKaanBedel.genruntimeconfig.cache

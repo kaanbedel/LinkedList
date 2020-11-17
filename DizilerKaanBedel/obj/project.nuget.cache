@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "e6AK+534+6IGMlVJPRTV4IKIaCIYubxhlmbv3WkIXMJX6RjmSC4+ZRFDs2RTRhtLtYAADQ4pf0SyCU9A3OVQdw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\02483838\\source\\repos\\DizilerKaanBedel\\DizilerKaanBedel\\DizilerKaanBedel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\02483838\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
